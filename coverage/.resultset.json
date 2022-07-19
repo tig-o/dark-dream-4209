@@ -242,6 +242,10 @@
         "lines": [
           1,
           null,
+          1,
+          1,
+          null,
+          1,
           null
         ]
       },
@@ -251,9 +255,154 @@
           null
         ]
       },
+      "/Users/tigo/Turing/2Module/ics/dark-dream-4209/spec/features/recipes/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/2Module/ics/dark-dream-4209/spec/features/recipes/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/2Module/ics/dark-dream-4209/spec/models/ingredient_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/tigo/Turing/2Module/ics/dark-dream-4209/app/models/ingredient.rb": {
         "lines": [
           1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          8,
+          null,
+          null,
+          1,
+          3,
+          null,
           null
         ]
       },
@@ -280,6 +429,8 @@
       "/Users/tigo/Turing/2Module/ics/dark-dream-4209/app/models/recipe_ingredient.rb": {
         "lines": [
           1,
+          1,
+          1,
           null
         ]
       },
@@ -304,10 +455,44 @@
       "/Users/tigo/Turing/2Module/ics/dark-dream-4209/app/models/recipe.rb": {
         "lines": [
           1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/2Module/ics/dark-dream-4209/app/controllers/ingredients_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/2Module/ics/dark-dream-4209/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/tigo/Turing/2Module/ics/dark-dream-4209/app/controllers/recipes_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          2,
+          null,
           null
         ]
       }
     },
-    "timestamp": 1658265179
+    "timestamp": 1658274607
   }
 }
